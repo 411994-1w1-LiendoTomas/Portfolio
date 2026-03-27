@@ -24,9 +24,9 @@ portfolio/
 ## Desarrollo local
 
 1. Clona el repositorio
-2. Abre `index.html` en tu navegador
+2. Abrir `index.html` en tu navegador
 
-O usa un servidor local:
+O usar un servidor local:
 
 ```bash
 # Con Python
@@ -41,22 +41,11 @@ php -S localhost:8000
 
 ## Deploy en GitHub Pages
 
-1. Crea un repositorio en GitHub
-2. Sube los archivos del proyecto
-3. Ve a **Settings > Pages**
-4. En "Source", selecciona **main** y **/ (root)**
-5. Guarda los cambios
-6. Tu portfolio estará disponible en: `https://411994-1w1-LiendoTomas.github.io/Portfolio`
-
-## Personalización
-
-Para personalizar el portfolio, edita:
-
-- **个人信息**: `index.html` (nombre, tagline, redes)
-- **Proyectos**: Reemplaza las cards en la sección `#proyectos`
-- **Tecnologías**: Modifica los badges en `#sobre-mi`
-- **Formulario**: Cambia el `action` del formulario por tu propio endpoint
-- **Colores**: Edita las variables CSS en `styles.css`
+1. Crear un repositorio en GitHub
+2. Subir los archivos del proyecto
+3. Ir a **Settings > Pages**
+4. En "Source", seleccionar **main** y **/ (root)**
+5. Guardar los cambios
 
 ## Licencia
 
