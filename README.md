@@ -46,7 +46,7 @@ php -S localhost:8000
 3. Ve a **Settings > Pages**
 4. En "Source", selecciona **main** y **/ (root)**
 5. Guarda los cambios
-6. Tu portfolio estará disponible en: `https://tu-usuario.github.io/repo-name`
+6. Tu portfolio estará disponible en: `https://411994-1w1-LiendoTomas.github.io/Portfolio`
 
 ## Personalización
 
