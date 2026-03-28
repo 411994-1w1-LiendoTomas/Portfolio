@@ -107,18 +107,3 @@ function initFormSubmit() {
         }
     });
 }
-
-let lastScrollY = window.scrollY;
-const navbar = document.querySelector('.navbar');
-
-window.addEventListener('scroll', () => {
-    const currentScrollY = window.scrollY;
-    
-    if (currentScrollY > lastScrollY && currentScrollY > 100) {
-        navbar.style.transform = 'translateY(-100%)';
-    } else {
-        navbar.style.transform = 'translateY(0)';
-    }
-    
-    lastScrollY = currentScrollY;
-});
